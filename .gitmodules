@@ -1,0 +1,3 @@
+[submodule "neuralnilm"]
+	path = neuralnilm
+	url = git@github.com:KaibinBao/neuralnilm.git
